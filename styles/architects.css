@@ -9,6 +9,11 @@
     font-style: normal;
 }
 
+body
+{
+    padding: 0;
+    margin: 0;
+}
 /* shared styles */
 .display-flex {
     display: flex;
